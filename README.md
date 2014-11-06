@@ -1,4 +1,4 @@
 Finančne pogodbe
 ================
 
-Repozitorij za projekt Finančne pogodbe (Matematika s funkcijskim programiranjem)
+Repozitorij za projekt Finančne pogodbe (Matematika s funkcijskim programiranjem) ekipe Finančniki
